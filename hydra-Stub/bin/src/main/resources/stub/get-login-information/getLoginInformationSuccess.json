@@ -1,0 +1,9 @@
+{
+    "client": {
+        "client_id": "Personal Online Banking"
+    },
+    "requested_scope": [
+        "Login",
+        "Login"
+    ]
+}
